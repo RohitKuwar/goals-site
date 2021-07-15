@@ -32,7 +32,6 @@ export default {
   padding: 0;
   width: 100%;
   box-sizing: border-box;
-  background-color: #e5e5e5;
 }
 h1 {
   font-family: 'Nunito', sans-serif;
